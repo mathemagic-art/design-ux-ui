@@ -1,1 +1,1 @@
-The Figma file includes all CSS code, icons, fonts, illustrations etc.
+The Figma file includes all CSS code, icons, fonts, illustrations, all elements etc.
