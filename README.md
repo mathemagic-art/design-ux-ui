@@ -15,4 +15,12 @@ All the design elements are fully optimized for both Light & Dark modes.
 * VectorMagic
 * Jira
 
+## Resources
+* Icons8 (https://icons8.com/)
+* Adobe stock (https://stock.adobe.com/)
+
+## Typefaces
+Used typefaces:
+* DM Sans (https://fonts.google.com/specimen/DM+Sans)
+* Inter (https://fonts.google.com/specimen/Inter)
 
