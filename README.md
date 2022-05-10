@@ -1,4 +1,4 @@
-# design-ux-ui
+# Design UX/UI
 
 Full Website Design files are available at: 
 https://www.figma.com/file/7iBQ9FHAOPyXDRTYdGpw9P/MatheMagic-Final-Design
